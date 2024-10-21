@@ -1,4 +1,3 @@
-
 integers = [int(x) for x in input("Enter a list of integers (space-separated): ").split()]
 
 
@@ -21,4 +20,3 @@ print("\n(a) Positive numbers from the list:", positive_numbers)
 print("(b) Squares of the numbers:", squared_numbers)
 print("(c) Vowels in the word:", vowels)
 print("(d) Ordinal values of each character in the word:", ordinal_values)
-
